@@ -196,7 +196,7 @@ const SkeletonFour = () => {
           className="rounded-full h-10 w-10"
         />
         <p className="sm:text-sm text-xs text-center font-semibold text-neutral-500 mt-4">
-          Just code in Vanilla Javascript
+          Easy to use.
         </p>
         <p className="border border-red-500 bg-red-100 dark:bg-red-900/20 text-red-600 text-xs rounded-full px-2 py-0.5 mt-4">
           Delusional
@@ -211,7 +211,7 @@ const SkeletonFour = () => {
           className="rounded-full h-10 w-10"
         />
         <p className="sm:text-sm text-xs text-center font-semibold text-neutral-500 mt-4">
-          Tailwind CSS is cool, you know
+          This made me feel free from my anxiety, thanks a lot.
         </p>
         <p className="border border-green-500 bg-green-100 dark:bg-green-900/20 text-green-600 text-xs rounded-full px-2 py-0.5 mt-4">
           Sensible
@@ -229,7 +229,7 @@ const SkeletonFour = () => {
           className="rounded-full h-10 w-10"
         />
         <p className="sm:text-sm text-xs text-center font-semibold text-neutral-500 mt-4">
-          I love angular, RSC, and Redux.
+          I love this App.
         </p>
         <p className="border border-orange-500 bg-orange-100 dark:bg-orange-900/20 text-orange-600 text-xs rounded-full px-2 py-0.5 mt-4">
           Helpless
@@ -282,8 +282,8 @@ const SkeletonFive = () => {
           className="rounded-full h-10 w-10"
         />
         <p className="text-xs text-neutral-500">
-          There are a lot of cool framerworks out there like React, Angular,
-          Vue, Svelte that can make your life ....
+          There are a lot of applications but this suggest me 
+          hacks related to health which helped me a lot.
         </p>
       </motion.div>
       <motion.div
@@ -301,7 +301,7 @@ const items = [
     title: "AI Content Generation",
     description: (
       <span className="text-sm">
-        Experience the power of AI in generating unique content.
+        Experience the power of AI in generating medical reports.
       </span>
     ),
     header: <SkeletonOne />,
@@ -312,7 +312,7 @@ const items = [
     title: "Automated Proofreading",
     description: (
       <span className="text-sm">
-        Let AI handle the proofreading of your documents.
+        Let AI make you fit and healthy.
       </span>
     ),
     header: <SkeletonTwo />,
@@ -323,7 +323,7 @@ const items = [
     title: "Contextual Suggestions",
     description: (
       <span className="text-sm">
-        Get AI-powered suggestions based on your writing context.
+        Get AI-powered suggestions based health.
       </span>
     ),
     header: <SkeletonThree />,
@@ -334,7 +334,7 @@ const items = [
     title: "Sentiment Analysis",
     description: (
       <span className="text-sm">
-        Understand the sentiment of your text with AI analysis.
+        Understand the sentiment of your pain with AI analysis.
       </span>
     ),
     header: <SkeletonFour />,
@@ -346,7 +346,7 @@ const items = [
     title: "Text Summarization",
     description: (
       <span className="text-sm">
-        Summarize your lengthy documents with AI technology.
+        DEscribe your symptoms and be ready to get fit with AI technology.
       </span>
     ),
     header: <SkeletonFive />,
